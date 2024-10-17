@@ -6,6 +6,8 @@ sites:
   - name: Personal Website
     url: https://weikuwu.me
     icon: https://crafatar.com/avatars/cd2f08fb-eede-4b88-b1c1-6f3e46007171?size=100
+  - name: CDN
+    url: https://cdn.weikuwu.me
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
