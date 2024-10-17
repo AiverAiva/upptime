@@ -2,7 +2,7 @@
   {
     "name": "Personal Website",
     "url": "https://weikuwu.me",
-    "icon": "https://icons.duckduckgo.com/ip3/weikuwu.me.ico",
+    "icon": "https://crafatar.com/avatars/cd2f08fb-eede-4b88-b1c1-6f3e46007171?size=100",
     "slug": "personal-website",
     "status": "up",
     "uptime": "100.00%",
@@ -15,6 +15,24 @@
     "timeWeek": 171,
     "timeMonth": 171,
     "timeYear": 171,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "CDN",
+    "url": "https://cdn.weikuwu.me",
+    "icon": "https://icons.duckduckgo.com/ip3/cdn.weikuwu.me.ico",
+    "slug": "cdn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   }
 ]
