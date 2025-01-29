@@ -4,19 +4,19 @@
     "url": "https://weikuwu.me",
     "icon": "https://crafatar.com/avatars/cd2f08fb-eede-4b88-b1c1-6f3e46007171?size=100",
     "slug": "personal-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2318,
-    "timeDay": 2335,
-    "timeWeek": 2408,
-    "timeMonth": 2315,
-    "timeYear": 2318,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2298,
+    "timeDay": 1267,
+    "timeWeek": 2132,
+    "timeMonth": 2249,
+    "timeYear": 2298,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 8
     }
   },
   {
