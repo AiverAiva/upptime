@@ -42,17 +42,19 @@
     "url": "https://wynnpool.weikuwu.me",
     "icon": "https://icons.duckduckgo.com/ip3/wynnpool.weikuwu.me.ico",
     "slug": "wynnpool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 129,
-    "timeWeek": 163,
-    "timeMonth": 193,
-    "timeYear": 199,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 2878,
+    "timeWeek": 846,
+    "timeMonth": 363,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   }
 ]
