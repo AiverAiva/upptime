@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2285,
-    "timeDay": 2509,
-    "timeWeek": 2559,
-    "timeMonth": 2341,
-    "timeYear": 2285,
+    "time": 2288,
+    "timeDay": 2791,
+    "timeWeek": 2619,
+    "timeMonth": 2339,
+    "timeYear": 2288,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 221,
-    "timeDay": 159,
-    "timeWeek": 239,
-    "timeMonth": 219,
+    "timeDay": 170,
+    "timeWeek": 243,
+    "timeMonth": 216,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-02-12": 19
@@ -42,18 +42,19 @@
     "url": "https://wynnpool.weikuwu.me",
     "icon": "https://icons.duckduckgo.com/ip3/wynnpool.weikuwu.me.ico",
     "slug": "wynnpool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 236,
-    "timeDay": 165,
-    "timeWeek": 201,
-    "timeMonth": 368,
+    "timeDay": 212,
+    "timeWeek": 193,
+    "timeMonth": 364,
     "timeYear": 236,
     "dailyMinutesDown": {
+      "2025-04-28": 0,
       "2025-04-03": 43
     }
   }
